@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**Veliz-P/Veliz-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un informático entusiasta por el desarrollo de sotware.
 
-Here are some ideas to get you started:
+Las áreas por las que siento más curiosidad y las que quiero dominar más son el desarrollo web y la ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy enfocado en la programación de apps web.
+
+### ✨ Mi stack actual es... ✨
+- Django, Django REST Framework
+- Vue.js
+- Typescript
+- Docker
+- MySQL
+- PostgreSQL
+
+### 📫 ¿Cómo contactarme? 📫
+En mi perfil de github se encuentran enlaces a mi cuenta de linkedin, correo personal y tambien a mi portafolio web
+donde hablo un poco más sobre mis proyectos, habilidades y principios.
+
