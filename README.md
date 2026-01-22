@@ -16,5 +16,5 @@ Actualmente estoy enfocado en la programación de apps web.
 
 ### 📫 ¿Cómo contactarme? 📫
 En mi perfil de github se encuentran enlaces a mi cuenta de linkedin, correo personal y tambien a mi portafolio web
-donde hablo un poco más sobre mis proyectos, habilidades y principios.
+donde hablo un poco más sobre mis proyectos, habilidades y objetivos.
 
